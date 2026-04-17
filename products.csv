@@ -1,0 +1,51 @@
+ProductID,ProductName,ProductCategory,Price,Base_Cost
+1001,Single-Origin Ethiopian (250g),Consumables,19.49,11.55
+1002,Seasonal Blend Light Roast,Consumables,35.53,5.39
+1003,Decaf Blend (1kg),Consumables,40.35,11.69
+1004,Cold Brew Concentrate,Consumables,23.49,9.17
+1005,Espresso Bean Sampler Pack,Consumables,19.06,10.88
+1006,Precision Electric Grinder,Grinders & Brewers,232.2,71.26
+1007,Hand Grinder (Travel Size),Grinders & Brewers,254.72,118.44
+1008,Automated Drip Brewer,Grinders & Brewers,235.76,120.44
+1009,High-Capacity French Press,Grinders & Brewers,338.36,134.7
+1010,Pour-Over Starter Kit,Grinders & Brewers,105.23,67.95
+1011,Digital Coffee Scale,Accessories,26.83,13.32
+1012,Gooseneck Electric Kettle,Accessories,34.87,23.61
+1013,Airtight Storage Container,Accessories,61.04,23.37
+1014,Chemex Filters (100 pack),Accessories,24.1,19.28
+1015,Refillable Coffee Pods,Accessories,24.13,8.45
+1016,Branded Ceramic Mug (Large),Merchandise,43.2,28.28
+1017,Logo Hoodie (Black),Merchandise,15.23,12.18
+1018,Insulated Travel Tumbler,Merchandise,43.28,18.93
+1019,Daily Grind T-Shirt,Merchandise,21.37,7.51
+1020,Minimalist Keychain,Merchandise,27.37,21.9
+1021,Monthly Dark Roast Subscription,Subscriptions,61.26,31.95
+1022,Bi-Weekly Sampler Box,Subscriptions,88.77,21.69
+1023,Three-Month Gift Subscription,Subscriptions,65.21,25.1
+1024,Espresso Lovers Quarterly Pack,Subscriptions,74.87,17.45
+1025,Subscription Renewal Service,Subscriptions,73.41,24.81
+1026,Single-Origin Ethiopian (250g),Consumables,19.49,11.55
+1027,Seasonal Blend Light Roast,Consumables,35.53,5.39
+1028,Decaf Blend (1kg),Consumables,40.35,11.69
+1029,Cold Brew Concentrate,Consumables,23.49,9.17
+1030,Espresso Bean Sampler Pack,Consumables,19.06,10.88
+1031,Precision Electric Grinder,Grinders & Brewers,232.2,71.26
+1032,Hand Grinder (Travel Size),Grinders & Brewers,254.72,118.44
+1033,Automated Drip Brewer,Grinders & Brewers,235.76,120.44
+1034,High-Capacity French Press,Grinders & Brewers,338.36,134.7
+1035,Pour-Over Starter Kit,Grinders & Brewers,105.23,67.95
+1036,Digital Coffee Scale,Accessories,26.83,13.32
+1037,Gooseneck Electric Kettle,Accessories,34.87,23.61
+1038,Airtight Storage Container,Accessories,61.04,23.37
+1039,Chemex Filters (100 pack),Accessories,24.1,19.28
+1040,Refillable Coffee Pods,Accessories,24.13,8.45
+1041,Branded Ceramic Mug (Large),Merchandise,43.2,28.28
+1042,Logo Hoodie (Black),Merchandise,15.23,12.18
+1043,Insulated Travel Tumbler,Merchandise,43.28,18.93
+1044,Daily Grind T-Shirt,Merchandise,21.37,7.51
+1045,Minimalist Keychain,Merchandise,27.37,21.9
+1046,Monthly Dark Roast Subscription,Subscriptions,61.26,31.95
+1047,Bi-Weekly Sampler Box,Subscriptions,88.77,21.69
+1048,Three-Month Gift Subscription,Subscriptions,65.21,25.1
+1049,Espresso Lovers Quarterly Pack,Subscriptions,74.87,17.45
+1050,Subscription Renewal Service,Subscriptions,73.41,24.81
