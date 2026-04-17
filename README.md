@@ -25,3 +25,42 @@ Overview Report :
 7. Filters and conditions were applied to ensure only relevant and accurate data was included.
 8. The final transformed dataset was validated for consistency and accuracy.
 9. This final dataset was then used for dashboard creation and further analysis in Power BI.
+
+🛠️ Tools used -
+- Mysql : 
+1. Database creation
+2. Table Creation & Dataset Import
+3. Data Checkup
+4. Data Cleanup
+5. Final dataset creation
+
+- Power BI :
+1. Integrated with mysql
+2. Import final dataset through sql quries
+3. Data modeling
+4. Dax for Mesures creation
+5. Dashboard building : Overview (Revenue), Gross Margin %, Pricing Report
+
+- Microsoft word :
+Created detailed report to present valueable insights and recommendations for pricing strategy.
+
+📊 Insights & Recommendations :
+1. Several products in Q3 2025 such as Minimalist Keychain, Chemex Filters, and Logo Hoodie have extremely low margins (~12%), indicating that current pricing is not sufficient to cover rising costs.
+
+2. Prices of these low-margin products should be increased by approximately 10–15% to improve profitability and bring margins closer to or above 30%.
+
+3. Products like Gooseneck Electric Kettle, Ceramic Mug, and Pour-Over Starter Kit have margins between 25–29%, so a smaller price increase of 5–8% can help push them above the acceptable threshold.
+
+4. Minimalist Keychain and Logo Hoodie should be closely monitored, and if margins do not improve after pricing or cost optimization, they should be considered for discontinuation.
+
+5. The business should focus more on high-performing and high-margin products (such as brewing equipment) to improve overall profitability.
+
+6. Subscription-based offerings should be expanded (e.g., filters or coffee refills) to create stable, recurring revenue and reduce dependency on one-time product sales.
+
+7. Revenue is highly concentrated in the West region, so efforts should be made to improve performance in South and North regions through targeted expansion strategies. 
+
+8. Since the overall margin trend is declining from 2023 to 2025, cost control measures such as supplier negotiation and logistics optimization should be implemented along with pricing changes.
+
+9. A combination of targeted price increases, removal of low-margin products, and focus on high-margin and recurring revenue streams is required to improve overall profitability
+
+
