@@ -6,3 +6,6 @@ Task for Analysis:
 • Create a dashboard showing Year-over-Year GMP, Revenue by Category, Product, and Region.
 • Provide clear, data-backed recommendations on which items require a price increase or discontinuation.
 
+Overview Report :
+
+![See Dashboard](OverviewReport.jpg)
