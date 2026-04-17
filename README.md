@@ -16,12 +16,12 @@ Overview Report :
 🔧 Project Process -->
 
 - Dataset creation:
-+ Multiple raw sales datasets were provided in separate Excel files, each containing different aspects of business data (orders, products, customers, etc.).
-+ All Excel files were first imported into a SQL environment as individual tables for further processing.
-Data cleaning steps were performed, including handling missing values, correcting data types, and removing duplicates.
-Common keys (such as Product ID, Order ID, and Customer ID) were identified to establish relationships between tables.
-SQL joins (INNER JOIN, LEFT JOIN) were used to merge multiple tables and create a unified dataset.
-Common Table Expressions (CTEs) were utilized to simplify complex transformations and improve query readability.
-Filters and conditions were applied to ensure only relevant and accurate data was included.
-The final transformed dataset was validated for consistency and accuracy.
-This final dataset was then used for dashboard creation and further analysis in Power BI.
+1. Multiple raw sales datasets were provided in separate Excel files, each containing different aspects of business data (orders, products, customers, etc.).
+2. All Excel files were first imported into a SQL environment as individual tables for further processing.
+3. Data cleaning steps were performed, including handling missing values, correcting data types, and removing duplicates.
+4. Common keys (such as Product ID, Order ID, and Customer ID) were identified to establish relationships between tables.
+5. SQL joins (INNER JOIN, LEFT JOIN) were used to merge multiple tables and create a unified dataset.
+6. Common Table Expressions (CTEs) were utilized to simplify complex transformations and improve query readability.
+7. Filters and conditions were applied to ensure only relevant and accurate data was included.
+8. The final transformed dataset was validated for consistency and accuracy.
+9. This final dataset was then used for dashboard creation and further analysis in Power BI.
